@@ -17,7 +17,6 @@ class Identity extends data.Data {
 	@:len(2) var interestsLen:Int;
 	@:len(interestsLen) public var interests:Array<String>;
 	@:len(1) public var rating:Int;
-	public var hair:HairColour;
 	static function concat(a:Array<String>):String {
 		return switch(a) {
 			case [v]: v;
