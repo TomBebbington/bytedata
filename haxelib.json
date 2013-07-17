@@ -1,0 +1,9 @@
+{
+	"name" : "bytedata",
+	"url" : "http://github.com/tophattedcoder/hx-data/",
+	"license" : "BSD",
+	"contributors" : ["tophattedcoder"],
+    "description" : "A Macro library for reading/writing binary structures",
+    "version" : "0.0.1",
+	"releasenote" : "Initial release"
+}

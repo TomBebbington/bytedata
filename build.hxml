@@ -1,0 +1,4 @@
+-cp tests
+-main Test
+-neko tests/test.n
+-cmd neko tests/test.n
